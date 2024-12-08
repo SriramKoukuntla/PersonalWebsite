@@ -1,0 +1,40 @@
+.HomeContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh; /* Full height of the viewport */
+    background-color: #0d1117;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+.MeEmoji {
+    width: 20rem;
+    height: auto;
+}
+
+.Contact {
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    gap: 10px; /* Optional: Add space between items */
+    align-items: center; /* Optional: Center items horizontally */
+    margin-top: 20px; /* Add spacing between Contact and other elements */
+    font-size: 1.1rem; /* Optional: Adjust font size */
+}
+
+.GithubLogo {
+    width: 10rem;
+    height: auto;
+}
+
+.LinkedinLogo {
+    width: 10rem;
+    height: auto;
+}
+
+.EmailLogo {
+    width: 10rem;
+    height: auto;
+}

@@ -1,0 +1,21 @@
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    transition: color 0.3s ease;
+    margin-left: 20px; /* Adds spacing between links */
+
+}
+
+a:hover {
+    color: yellow;
+}
+
+.HeaderContainer{
+    background-Color:black;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    position: sticky;
+}

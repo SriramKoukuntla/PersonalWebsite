@@ -1,0 +1,41 @@
+.MainContainer{
+    background-color: #2D3748;
+    text-align: left;
+    margin: 1rem 20rem;
+    color: white;
+}
+
+.HeaderLogoProjectNameProjectTypesTimePeriod{
+    display: flex;
+    flex-direction: row;
+}
+
+.LogoProjectNameProjectTypes{
+    display: flex;
+    flex-direction: row;
+}
+
+.TimePeriod {
+    margin-left: auto; /* Push TimePeriod to the right */
+    padding: 1rem;
+}
+
+.BulletPoints{
+    padding: 0rem 1rem;
+}
+
+.LucidImage {
+    height: 5rem;
+    width: auto;
+    padding: 1rem;
+}
+
+.Skills {
+    display: flex;
+    flex-direction: row;
+}
+
+.Clickables {
+    display: flex;
+    flex-direction: row;
+}

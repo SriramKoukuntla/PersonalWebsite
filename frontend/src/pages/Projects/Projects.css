@@ -1,0 +1,10 @@
+.ProjectsContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #0a2142;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
