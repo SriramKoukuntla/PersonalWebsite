@@ -1,10 +1,10 @@
 import { Project } from "../../../components/Project/Project";
-import LucidLogo from "../Vault.svg" 
+import RepVaultLogo from "./RepVaultLogo.svg" 
 
 export const RepVault = () => {
     return (
             <Project
-                logo={LucidLogo}
+                logo={RepVaultLogo}
                 projectName="RepVault"
                 projectTypes={["Full Stack"]}
                 description={[
@@ -16,7 +16,7 @@ export const RepVault = () => {
                 ]}
                 skills={["React", "Node.js", "Express", "MongoDB", "JSON WebTokens"]}
                 timePeriod={"Nov 2023 - Dec 2023"}
-                clickables = {[{link: "https://example.com", text: "Application"}, {link: "https://example.com", text: "source"}]}
+                clickables = {[{link: "https://example.com", text: "Application"}, {link: "https://github.com/SriramKoukuntla/MERN-Workout-Tracker-APP", text: "Source"}]}
             />
     )
 };

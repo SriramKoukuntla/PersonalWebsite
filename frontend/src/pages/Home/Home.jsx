@@ -7,7 +7,7 @@ import EmailLogo from "./EmailLogo.png";
 
 export const Home = () => {
   return (
-    <div className = "HomeContainer">
+    <div className = "HomeContainer" id = "Home">
       <div>
         <img src={MeEmoji} alt = "MeEmojiNotLoading" className="MeEmoji"/>
           <h1>

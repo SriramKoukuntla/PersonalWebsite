@@ -1,7 +1,9 @@
 .MainContainer{
     background-color: #2D3748;
     text-align: left;
-    margin: 1rem 20rem;
+    width: 57rem;
+    height: auto;
+
     color: white;
 }
 
