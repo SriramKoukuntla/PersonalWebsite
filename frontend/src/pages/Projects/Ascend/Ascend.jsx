@@ -14,7 +14,8 @@ export const Ascend = () => {
                 ]}
                 skills={["Java", "Springboot", "Flutter"]}
                 timePeriod={"Nov 2024 - Dec 2024"}
-                clickables = {[{link: "https://example.com", text: "Application"}, {link: "https://github.com/SriramKoukuntla/Ascend-UMass-Climbing-App", text: "Source"}]}
+                clickables = {[{link: "https://github.com/SriramKoukuntla/Ascend-UMass-Climbing-App", text: "Source"}]}
+                //{link: "https://example.com", text: "Application"}, 
             />
     )
 };

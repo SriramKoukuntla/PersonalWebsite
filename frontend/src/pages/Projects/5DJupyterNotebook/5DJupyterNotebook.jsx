@@ -14,7 +14,9 @@ export const FiveDJupyterNotebook = () => {
                 ]}
                 skills={["React", "Node.js", "Express"]}
                 timePeriod={"Nov 2024 - Present"}
-                clickables = {[{link: "https://example.com", text: "Application"}, {link: "https://github.com/SriramKoukuntla/5D_Jupyter_Notebook", text: "Source"}]}
+                clickables = {[{link: "https://github.com/SriramKoukuntla/5D_Jupyter_Notebook", text: "Source"}]} 
+                // {link: "https://example.com", text: "Application"},
             />
     )
+    
 };

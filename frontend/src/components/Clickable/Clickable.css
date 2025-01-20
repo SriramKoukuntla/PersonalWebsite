@@ -7,11 +7,18 @@
     padding: 0rem 5rem;
   }
   
+  .hyperLinkLogo{
+    margin-top: 0.5rem;
+  }
+
+  .Clickable p {
+    margin-right: 0.5rem; /* or however much spacing you want */
+  }
   .Clickable button {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 4px; /* Space between text and icon */
+    gap: 0.5rem; /* Space between text and icon */
 
     border: none;
     border-radius: 8px;

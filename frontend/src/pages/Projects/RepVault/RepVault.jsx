@@ -16,7 +16,8 @@ export const RepVault = () => {
                 ]}
                 skills={["React", "Node.js", "Express", "MongoDB", "JSON WebTokens"]}
                 timePeriod={"Nov 2023 - Dec 2023"}
-                clickables = {[{link: "https://example.com", text: "Application"}, {link: "https://github.com/SriramKoukuntla/MERN-Workout-Tracker-APP", text: "Source"}]}
+                clickables = {[{link: "https://github.com/SriramKoukuntla/MERN-Workout-Tracker-APP", text: "Source"}]}
+                //{link: "https://example.com", text: "Application"}, 
             />
     )
 };

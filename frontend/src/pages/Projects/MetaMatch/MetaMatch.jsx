@@ -14,7 +14,8 @@ export const MetaMatch = () => {
                 ]}
                 skills={["Java", "Springboot", "Flutter"]}
                 timePeriod={"Nov 2024 - Dec 2024"}
-                clickables = {[{link: "https://example.com", text: "Application"}, {link: "https://github.com/SriramKoukuntla/Video-Game-Recommender-APP", text: "Source"}]}
+                clickables = {[{link: "https://github.com/SriramKoukuntla/Video-Game-Recommender-APP", text: "Source"}]}
+                //{link: "https://example.com", text: "Application"}, 
             />
     )
 };
