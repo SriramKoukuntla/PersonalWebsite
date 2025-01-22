@@ -7,10 +7,9 @@ export const Experience = () => {
         <div id = "Experience">
             <div className = "TopMarginDivExperience"></div>
             <div className = "ExperienceContainer">
-            <h1>Experience</h1>
-            <LucidExperience/>
+                <h1>Experience</h1>
+                <LucidExperience/>
+            </div>
         </div>
-        </div>
-
       );
 }   
