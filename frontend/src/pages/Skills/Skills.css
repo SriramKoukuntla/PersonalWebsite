@@ -1,0 +1,15 @@
+.SkillsContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #094394;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+.TopMarginDivSkills {
+    background-color: #0A2142;
+    width: 100vw;
+    height: 2rem;
+}
